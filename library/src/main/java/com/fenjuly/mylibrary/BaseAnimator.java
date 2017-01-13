@@ -10,6 +10,8 @@ import com.nineoldandroids.animation.AnimatorSet;
  */
 public abstract class BaseAnimator {
 
+    // TODO: 17-1-13 A
+
     public static final long DURATION = 200;
 
     private AnimatorSet animatorSet = new AnimatorSet();
